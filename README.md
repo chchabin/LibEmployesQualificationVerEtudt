@@ -9,5 +9,8 @@ Version étudiant
    (sinon faire un clique droit sur le nom du projet pour le paramétrer)
 3. Les instructions se trouvent dans le fichier Form1.cs
 
+## Détail du diagrame de Classe
 ![ClassDriagram](/images/ClassDiagram.PNG)
 
+## Le résultat à obtenir
+![resultat](/images/vue.PNG)
